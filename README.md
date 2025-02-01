@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ParaNoid-001
+- 👋 Hi, I’m @Swarnadip Ghosh
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...Django
 - 💞️ I’m looking to collaborate on ...
