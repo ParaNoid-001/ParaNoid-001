@@ -1,51 +1,70 @@
-👋 Hello, I'm Swarnadip Ghosh
-Python Full Stack Developer | Django Specialist | Open Source Contributor
-I build robust web applications, optimize databases, and automate everything possible with Python. Passionate about open-source, clean architecture, and performance tuning. Currently mastering Frappe Framework & Microservices while sharpening my C++ and system design skills.
 
-🛠 Tech Stack
-Backend
-https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white
-https://img.shields.io/badge/Frappe_Framework-5e64ff?style=flat&logo=python&logoColor=white
-https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white
 
-Frontend
-https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black
-https://img.shields.io/badge/AJAX-1E90FF?style=flat&logo=javascript&logoColor=white
-https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white
+# **👋 Hi, I'm Swarnadip Ghosh**  
+### **Python Full Stack Developer | Django Expert | Open Source Contributor**  
 
-Databases
-https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white
-https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
+Passionate about building scalable web applications with clean, efficient code. I specialize in **Django, Frappe Framework, and PostgreSQL**, while expanding my skills in **system design and performance optimization**. Passionate about creating efficient backends with **Django REST API** and crafting responsive UIs with **Bootstrap & AJAX**.
 
-DevOps & Tools
-https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
-https://img.shields.io/badge/C++-00599C?style=flat&logo=c%252B%252B&logoColor=white
+---
 
-🔥 Current Focus
-Building ERP solutions with Frappe/ERPNext
+## **🚀 Tech Stack**
 
-PostgreSQL optimization (query tuning, indexing strategies)
+### **Backend Development**
+[![Python](https://img.shields.io/badge/Python-3.12%20|%203.13-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Frappe](https://img.shields.io/badge/Frappe-5e64ff?style=for-the-badge&logo=python&logoColor=white)](https://frappeframework.com)
+[![DRF](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)](https://en.wikipedia.org/wiki/API)
 
-Exploring WebSockets for real-time apps
+### **Frontend Development**
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![AJAX](https://img.shields.io/badge/AJAX-2386C2?style=for-the-badge&logo=ajax&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 
-🌟 Featured Projects
-▶ Django E-Commerce API – Scalable REST backend with JWT auth
-▶ Frappe Custom App – Extending ERPNext for inventory management
-▶ C++ Algorithms – High-performance data structures
+### **Databases & DevOps**
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-📈 GitHub Analytics
-https://github-readme-stats.vercel.app/api?username=ParaNoid-001&show_icons=true&theme=radical&hide_border=true	https://github-readme-stats.vercel.app/api/top-langs/?username=ParaNoid-001&layout=compact&theme=dark&hide_border=true
-📫 Let's Connect!
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+### **Other Skills**
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
-Fun Fact
-I once automated my entire morning routine with Python (coffee machine included ☕).
+---
 
-Let’s build something amazing together! 🚀
+## ⚡ **Fun Fact**  
+I love automating boring tasks with Python scripts! 🐍  
 
+---
+
+## **📊 GitHub Stats**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParaNoid-001&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParaNoid-001&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## **📫 Let's Connect**
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swarnadip921@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarnadip-ghosh-872972264/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@swarnadipghosh6942)
+
+---
+
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or just chat about tech! �
+
+**Happy Coding!** 🚀🔥 
 <!---
 # 👋 Hello, I'm Swarnadip Ghosh  
 
