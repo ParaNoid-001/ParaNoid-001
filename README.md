@@ -37,6 +37,14 @@ Passionate about building scalable web applications with clean, efficient code. 
 
 ---
 
+## **📫 Let's Connect**
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swarnadip921@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarnadip-ghosh-872972264/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@swarnadipghosh6942)
+
+---
+
 ## ⚡ **Fun Fact**  
 I love automating boring tasks with Python scripts! 🐍  
 
@@ -54,17 +62,10 @@ I love automating boring tasks with Python scripts! 🐍
 
 ---
 
-## **📫 Let's Connect**
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swarnadip921@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarnadip-ghosh-872972264/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@swarnadipghosh6942)
-
----
-
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or just chat about tech! �
 
 **Happy Coding!** 🚀🔥 
+
 <!---
 # 👋 Hello, I'm Swarnadip Ghosh  
 
